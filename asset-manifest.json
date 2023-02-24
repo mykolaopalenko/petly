@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/pet-support-front/static/css/main.f4a4faa7.css",
-    "main.js": "/pet-support-front/static/js/main.9c934271.js",
-    "static/js/933.86a753bd.chunk.js": "/pet-support-front/static/js/933.86a753bd.chunk.js",
+    "main.css": "/pet-support-front/static/css/main.1146c81f.css",
+    "main.js": "/pet-support-front/static/js/main.2cf30039.js",
+    "static/css/594.0d168440.chunk.css": "/pet-support-front/static/css/594.0d168440.chunk.css",
+    "static/js/594.18d08b9a.chunk.js": "/pet-support-front/static/js/594.18d08b9a.chunk.js",
     "static/js/587.12c03625.chunk.js": "/pet-support-front/static/js/587.12c03625.chunk.js",
     "static/js/203.25462618.chunk.js": "/pet-support-front/static/js/203.25462618.chunk.js",
     "static/js/19.5f349b19.chunk.js": "/pet-support-front/static/js/19.5f349b19.chunk.js",
@@ -34,9 +35,10 @@
     "static/media/wave-login-register.svg": "/pet-support-front/static/media/wave-login-register.8bf5073e8fd97448d3f71547116682ac.svg",
     "index.html": "/pet-support-front/index.html",
     "static/media/plus.svg": "/pet-support-front/static/media/plus.7c0f1d636c6fbd6f663c3e38f556dcdd.svg",
-    "main.f4a4faa7.css.map": "/pet-support-front/static/css/main.f4a4faa7.css.map",
-    "main.9c934271.js.map": "/pet-support-front/static/js/main.9c934271.js.map",
-    "933.86a753bd.chunk.js.map": "/pet-support-front/static/js/933.86a753bd.chunk.js.map",
+    "main.1146c81f.css.map": "/pet-support-front/static/css/main.1146c81f.css.map",
+    "main.2cf30039.js.map": "/pet-support-front/static/js/main.2cf30039.js.map",
+    "594.0d168440.chunk.css.map": "/pet-support-front/static/css/594.0d168440.chunk.css.map",
+    "594.18d08b9a.chunk.js.map": "/pet-support-front/static/js/594.18d08b9a.chunk.js.map",
     "587.12c03625.chunk.js.map": "/pet-support-front/static/js/587.12c03625.chunk.js.map",
     "203.25462618.chunk.js.map": "/pet-support-front/static/js/203.25462618.chunk.js.map",
     "19.5f349b19.chunk.js.map": "/pet-support-front/static/js/19.5f349b19.chunk.js.map",
@@ -60,7 +62,7 @@
     "924.095f3b4d.chunk.js.map": "/pet-support-front/static/js/924.095f3b4d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f4a4faa7.css",
-    "static/js/main.9c934271.js"
+    "static/css/main.1146c81f.css",
+    "static/js/main.2cf30039.js"
   ]
 }
